@@ -60,6 +60,7 @@ Happiness outside of work obviously has a significant impact on productivity and
 - What’s the worst part about your job?
 - It doesn’t seem like you’re enjoying ________, what would you rather be doing?
 - It seems like you’re enjoying ________, is this an area of interest for you?
+- Tell me, is there anything in your life that has ever interested you?
 
 ### Short-term Goals
 
